@@ -1,7 +1,7 @@
 # Gerador-QRCode-
 ![image](https://github.com/Lucas-Benediht/Gerador-QRCode-/assets/110697669/7e6e93a8-4beb-4935-b88d-0bdb6f7d42fb)
 
-##Descrição
+## Descrição
 O Gerador de QR Code é uma aplicação simples que permite aos usuários gerar QR Codes a partir de texto ou links. Este projeto foi criado para fins educacionais e pode ser facilmente personalizado e expandido de acordo com as necessidades.
 
 ## Recursos
